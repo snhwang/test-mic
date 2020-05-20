@@ -1,0 +1,7 @@
+{
+  "name": "test-mic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
